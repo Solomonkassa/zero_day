@@ -1,0 +1,1 @@
+ssh 0887657a21d2@0887657a21d2.824f172c.alx-cod.online
